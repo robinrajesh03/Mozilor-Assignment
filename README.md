@@ -29,3 +29,15 @@ Install the required libraries using:
 
 ```bash
 pip install selenium beautifulsoup4 google-generativeai
+```
+---
+
+## Usage
+
+Before running the code we require to do the following:
+1. **Install Webdriver**: In order to use Selenium we need to download appropriate webdriver (ex. Chromedriver) and keep it in the directory.
+2. **Create Environment Variables**: Create environment variables for (`api_key`) and (`email_password`) and add path.
+
+By updating the (`websites`) list inside (`main()`) function with website names, URLs, and contact emails, we can try for various agencies.
+
+---   
