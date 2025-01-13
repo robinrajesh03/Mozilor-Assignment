@@ -29,12 +29,3 @@ Install the required libraries using:
 
 ```bash
 pip install selenium beautifulsoup4 google-generativeai
-
----
-
-
-
-
-
-
-
