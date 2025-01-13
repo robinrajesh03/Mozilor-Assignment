@@ -1,7 +1,7 @@
 # Mozilor Assignment
 # Agency Eligibility Checker
 
-This project evaluates agency websites to determine if they offer services like web design, web development, SEO, and digital marketing. Based on the evaluation, the project stores the decision in a CSV file and sends an email notification to the agency.
+This solution evaluates agency websites to determine if they offer services like web design, web development, SEO, and digital marketing. Based on the evaluation, the project stores the decision in a CSV file and sends an email notification to the agency.
 
 ---
 
