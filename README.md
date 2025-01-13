@@ -21,9 +21,20 @@ This project evaluates agency websites to determine if they offer services like 
 - Google Chrome and ChromeDriver
 - Gmail account for email notifications
 
+---
+
 ### Python Libraries
 
 Install the required libraries using:
 
 ```bash
 pip install selenium beautifulsoup4 google-generativeai
+
+---
+
+
+
+
+
+
+
